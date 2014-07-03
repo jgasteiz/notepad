@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/javi/dev/Notepadv3/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">8dp</dimen>
+    <!-- From: file:/Users/javi/dev/Notepadv3/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">Notepad</string>
+    <string name="body">Body</string>
+    <string name="confirm">Confirm</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="menu_delete">Delete Note</string>
+    <string name="menu_insert">Add Note</string>
+    <string name="no_notes">No Notes Yet</string>
+    <string name="title">Title</string>
+    <!-- From: file:/Users/javi/dev/Notepadv3/app/src/main/res/values/themes.xml -->
+    <eat-comment />
+
+    <style name="MyAppTheme" parent="@android:style/Theme.Light">
+        <!-- Any customizations for your app running on pre-3.0 devices here -->
+    </style>
+
+</resources>

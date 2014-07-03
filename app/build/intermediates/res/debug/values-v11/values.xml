@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/javi/dev/Notepadv3/app/src/main/res/values-v11/styles.xml -->
+    <eat-comment />
+
+    <style name="AppTheme" />
+    <!-- From: file:/Users/javi/dev/Notepadv3/app/src/main/res/values-v11/themes.xml -->
+    <eat-comment />
+
+    <style name="MyAppTheme" parent="@android:style/Theme.Holo.Light">
+        <!-- Any customizations for your app running on 3.0+ devices here -->
+    </style>
+
+</resources>
